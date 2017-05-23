@@ -1,0 +1,85 @@
+/* Last Name : Chandru, First Name : Jeyanth, Due Date : November 20, 2016,
+Project Number : Assignment 3 */
+html,
+body {
+  overflow-x: hidden; 
+}
+body {
+  padding-top: 70px;
+  padding-left: 100px;
+  width: 80%;
+}
+footer {
+  padding: 30px 0;
+}
+.row{
+	padding-left: 10%;
+}
+
+.centered{
+	text-align: center;
+}
+.dropdown:hover{
+	background: #000000;
+}
+
+.blueLinks{
+	color:#3366BB;
+}
+
+.table-bordered-custom thead{
+	background-color: #efefef;
+}
+
+.spacing-div{
+	width: 80%;
+}
+
+.overFlow {
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.singlePaintingByArtist {
+    text-align:center;
+    margin-right:3em;
+    margin-bottom:0em;
+    font-size: 0.85em;
+    min-width:220px;
+}
+
+.margin-padding{
+	margin-right: 1em;
+}
+
+.overFlow {
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+.price-tag {
+    color:red;
+    font-weight:bold;
+}
+
+.highlight {
+    padding: 9px 14px;
+    margin-bottom: 14px;
+    background-color: #efefef;
+    border: 1px solid #e1e1e8;
+    border-radius: 4px;
+}
+
+.highlight1 {
+  background-color: #FF0;
+}
+
+.bac-img {
+  margin-top: 20px;
+  background-image: linear-gradient(90deg, #8F8F8F, #F0F0F0);
+}
+
+.adjust-width{
+  width: 150px;
+}
